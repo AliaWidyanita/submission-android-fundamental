@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aplikasi GitHub User</string>
+    <string name="name">Name</string>
+    <string name="searchbar_hint">mau cari siapa?</string>
+    <string name="count">0</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="favourite">Favourite</string>
+    <string name="dark_mode">Dark Mode </string>
+</resources>
